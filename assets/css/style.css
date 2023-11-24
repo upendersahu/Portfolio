@@ -84,11 +84,11 @@ h6 {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: rgba(244, 250, 221, 0.8);
+  color: rgba(215, 221, 194, 0.8);
 }
 
 #header h2 span {
-  color: #fff;
+  color: #b6b6b6ec;
   border-bottom: 2px solid #18d26e;
   padding-bottom: 6px;
 }
