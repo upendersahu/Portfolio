@@ -76,7 +76,7 @@ h6 {
 
 #header h1 a,
 #header h1 a:hover {
-  color: #fff;
+  color: #faf135;
   line-height: 1;
   display: inline-block;
 }
@@ -84,7 +84,7 @@ h6 {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(244, 250, 221, 0.8);
 }
 
 #header h2 span {
